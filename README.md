@@ -6,6 +6,6 @@ This C program calculates minimum marks needed to pass a course based on quiz sc
 
 ```bash
 gcc IITm_calc.c
-a.exe(this is for Windows)
-./a.out (This is for Linux and mac)
+a.exe #(this is for Windows)
+./a.out #(This is for Linux and mac)
 ```
